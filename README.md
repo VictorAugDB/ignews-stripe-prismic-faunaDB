@@ -18,4 +18,5 @@ sem aspas.
 Se quiser só rodar o projeto.
 
 >yarn
+
 >yarn dev
